@@ -1,3 +1,4 @@
 fun main(args: Array<String>) {
-    println("Hello")
 }
+
+data class Mahasiswa(val nama: String, val jeniskelamin: String, val umur: Int)
